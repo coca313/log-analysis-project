@@ -1,2 +1,15 @@
-# log-analysis-project
-Log analysis project identifying brute-force attacks and suspicious login activity using sample authentication logs.
+# Log Analysis Project
+
+## Overview
+This project analyzes login activity logs to identify suspicious patterns and potential cybersecurity threats.
+
+## Skills Demonstrated
+- Log analysis
+- Threat detection
+- Pattern recognition
+- Security reporting
+
+## Key Findings
+- Brute-force attack attempts detected
+- Suspicious external login activity identified
+- Potential account compromise observed
